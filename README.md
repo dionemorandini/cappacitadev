@@ -18,11 +18,11 @@ O repositório é composto dos seguintes arquivos:
 
   
 
-- **Algoritmos Narrativos e Pseudocódigo - *algoritmos-narrativos-e-pseudocodigo.md* **
+- **Algoritmos Narrativos e Pseudocódigo - *algoritmos-narrativos-e-pseudocodigo.md***
 
   Exercício de descrição em linguagem natural dos passos a serem seguidos para realizar ações simples, como tomar banho, escovar os dentes, trocar um pneu, informar a idade de uma pessoa, além de exercícios em Portugol, ou Pseudocódigo.
 
-  
+
 
 - **Loop - *loop.js***
 
